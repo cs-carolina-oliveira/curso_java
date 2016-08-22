@@ -1,5 +1,6 @@
 package br.com.exerciciojavaoo.teste;
 
+import br.com.exerciciojavaoo.beans.Funcionario;
 import br.com.exerciciojavaoo.beans.Gerente;
 
 /**
@@ -14,5 +15,14 @@ public class TesteGerente {
 
         gerente.autentica(1234);
         System.out.println("Sua bonificação foi de "+Math.round(gerente.getBonificacao()));
+
+        Gerente gerente1 = new Gerente();
+        Funcionario funcionario = gerente1;
+        funcionario.setSalario(5000.0);
+
+        Gerente funcionario1 = new Gerente();
+        funcionario1.setSalario(5000);
+
+        System.out.println(funcionario.getBonificacao());
     }
 }

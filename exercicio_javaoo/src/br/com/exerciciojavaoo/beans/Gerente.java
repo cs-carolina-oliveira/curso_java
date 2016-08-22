@@ -53,4 +53,8 @@ public class Gerente extends Funcionario{
     public double getBonificacao(){
         return super.salario*0.15+1000;
     }
+
+    public String getTudo(){
+        return super.getTudo() + "\n" + senha + "\n" + numeroFuncionarioGerenciados;
+    }
 }

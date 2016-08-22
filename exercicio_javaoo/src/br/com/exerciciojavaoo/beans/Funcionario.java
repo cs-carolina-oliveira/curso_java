@@ -4,11 +4,13 @@ package br.com.exerciciojavaoo.beans;
  * Created by carolinaoliveira on 22/08/16.
  */
 public class Funcionario {
-    private String nome;
-    private String depto;
-    private double salario;
-    private String dtEntrada;
-    private String rg;
+    protected String nome;
+    protected String depto;
+    protected double salario;
+    protected String dtEntrada;
+    protected String rg;
+
+
     public void setNome(String nome) {
         this.nome = nome;
     }
@@ -60,5 +62,9 @@ public class Funcionario {
     public String getTudo(){
         return "Nome: " + nome + "\n" + "Depto" + depto + "\n" + "Salario: " + salario +
                 "\n" + "Data de Entrada: " + dtEntrada + "\n" + "RG: " + rg;
+    }
+
+    public double getBonificacao(){
+        return this.getSalario()*0.10;
     }
 }

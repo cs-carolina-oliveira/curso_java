@@ -48,8 +48,6 @@ public class TesteFuncionario {
             txt("data de entrada "),
             txt("rg")
              );
-
-        *
-        * */
+         */
     }
 }

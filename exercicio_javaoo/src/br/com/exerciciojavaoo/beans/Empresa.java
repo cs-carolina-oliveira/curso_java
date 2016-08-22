@@ -1,4 +1,4 @@
-package br.com.exerciciosjava.beans;
+package br.com.exerciciojavaoo.beans;
 
 /**
  * Created by carolinaoliveira on 22/08/16.
@@ -14,6 +14,19 @@ public class Empresa {
         this.funcionario = funcionario;
     }
 
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public void setCnpj(String cnpj) {
+        this.cnpj = cnpj;
+    }
+
+    public Empresa(String nome, String cnpj) {
+        this.nome = nome;
+        this.cnpj = cnpj;
+    }
+
     public String getNome() {
 
         return nome;
@@ -23,11 +36,11 @@ public class Empresa {
         return cnpj;
     }
 
-    public Funcionario[] getFuncionario() {
-        return funcionario;
+    public Funcionario getFuncionatio(int posicao){
+        return this.funcionario[posicao];
     }
 
-    public static void adiciona(Funcionario f){
+    /*public void adiciona(Funcionario f){
         this.funcionario[] = f;
-    }
+       } */
 }

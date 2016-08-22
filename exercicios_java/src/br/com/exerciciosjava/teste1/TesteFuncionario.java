@@ -1,13 +1,12 @@
 package br.com.exerciciosjava.teste1;
 
 import br.com.exerciciosjava.beans.Funcionario;
-
 import javax.swing.*;
 
 /**
  * Created by carolinaoliveira on 22/08/16.
  */
-public class Teste {
+public class TesteFuncionario {
     public static void main(String[] args) {
         Funcionario f1 = new Funcionario();
         f1.setNome("Hugo");

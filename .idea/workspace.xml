@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78783a4b-8a6b-45c6-94fa-0c1a7df2adbd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Empresa.java" afterPath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Empresa.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Funcionario.java" afterPath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Funcionario.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Gerente.java" afterPath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Gerente.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteFuncionario.java" afterPath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteFuncionario.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteGerente.java" afterPath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteGerente.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/AreaCalculavel.java" afterPath="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/AreaCalculavel.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/Circulo.java" afterPath="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/Circulo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/Quadrado.java" afterPath="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/Quadrado.java" />

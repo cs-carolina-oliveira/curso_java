@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78783a4b-8a6b-45c6-94fa-0c1a7df2adbd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/AreaCalculavel.java" afterPath="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/AreaCalculavel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/Circulo.java" afterPath="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/Circulo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/Quadrado.java" afterPath="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/Quadrado.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/Retangulo.java" afterPath="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/Retangulo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interfaces/src/br/com/interfaces/teste/TesteInterface.java" afterPath="$PROJECT_DIR$/interfaces/src/br/com/interfaces/teste/TesteInterface.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/TesteInteger.java" afterPath="$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/TesteInteger.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/TesteString.java" afterPath="$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/TesteString.java" />
     </list>

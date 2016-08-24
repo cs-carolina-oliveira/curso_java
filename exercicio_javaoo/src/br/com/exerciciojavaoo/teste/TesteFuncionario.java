@@ -4,15 +4,12 @@ import br.com.exerciciojavaoo.beans.Funcionario;
 
 import javax.swing.*;
 
-/**
- * Created by carolinaoliveira on 22/08/16.
- */
 public class TesteFuncionario {
-    public static String txt(String msg){
+    public static String txt(String msg) {
         return JOptionPane.showInputDialog("Digite o " + msg);
     }
 
-    public static double num(String msg){
+    public static double num(String msg) {
         return Double.parseDouble(JOptionPane.showInputDialog(txt(msg)));
     }
 
@@ -34,10 +31,10 @@ public class TesteFuncionario {
                 "Ganho anual: " + f1.ganhoAnual());
         JOptionPane.showMessageDialog(null, "Salario atual: " + f1.getSalario() + "\n" +
                 "Ganho anual: " + f1.ganhoAnual());
-        System.out.println(f1.getTudo() + "\n"+f2.getTudo());
+        System.out.println(f1.getTudo() + "\n" + f2.getTudo());
         if (f1 == f2) {
             System.out.println("Iguais");
-        } else{
+        } else {
             System.out.println("Diferentes");
         }
 

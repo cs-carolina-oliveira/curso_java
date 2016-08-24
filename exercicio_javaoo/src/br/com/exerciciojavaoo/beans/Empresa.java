@@ -1,12 +1,9 @@
 package br.com.exerciciojavaoo.beans;
 
-/**
- * Created by carolinaoliveira on 22/08/16.
- */
 public class Empresa {
     private String nome;
     private String cnpj;
-    Funcionario[] funcionario;
+    public Funcionario[] funcionario;
 
     public Empresa(String nome, String cnpj, Funcionario[] funcionario) {
         this.nome = nome;
@@ -36,11 +33,8 @@ public class Empresa {
         return cnpj;
     }
 
-    public Funcionario getFuncionatio(int posicao){
+    public Funcionario getFuncionatio(int posicao) {
         return this.funcionario[posicao];
     }
 
-    /*public void adiciona(Funcionario f){
-        this.funcionario[] = f;
-       } */
 }

@@ -2,10 +2,7 @@ package br.com.exerciciojavaoo.beans;
 
 import javax.swing.*;
 
-/**
- * Created by carolinaoliveira on 22/08/16.
- */
-public class Gerente extends Funcionario{
+public class Gerente extends Funcionario {
     private int senha;
     private int numeroFuncionarioGerenciados;
 
@@ -39,22 +36,22 @@ public class Gerente extends Funcionario{
     public Gerente() {
     }
 
-    public boolean autentica(int senha){
-        if(this.senha==senha){
+    public boolean autentica(int senha) {
+        if (this.senha == senha) {
             JOptionPane.showMessageDialog(null, "Acesso Permitido!");
             return true;
-        }else{
+        } else {
             JOptionPane.showMessageDialog(null, "Acesso Negado!");
             return false;
         }
     }
 
     @Override
-    public double getBonificacao(){
-        return super.salario*0.15+1000;
+    public double getBonificacao() {
+        return super.salario * 0.15 + 1000;
     }
 
-    public String getTudo(){
+    public String getTudo() {
         return super.getTudo() + "\n" + senha + "\n" + numeroFuncionarioGerenciados;
     }
 }

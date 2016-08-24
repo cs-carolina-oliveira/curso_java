@@ -2,38 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78783a4b-8a6b-45c6-94fa-0c1a7df2adbd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/GuardadorObj.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteGuardador.class" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/br/com/exerciciojavaoo/teste/TesteEmpresa.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/br/com/exerciciojavaoo/beans/Empresa.class" afterPath="$PROJECT_DIR$/br/com/exerciciojavaoo/beans/Empresa.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/br/com/exerciciojavaoo/beans/Funcionario.class" afterPath="$PROJECT_DIR$/br/com/exerciciojavaoo/beans/Funcionario.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/br/com/exerciciojavaoo/beans/Gerente.class" afterPath="$PROJECT_DIR$/br/com/exerciciojavaoo/beans/Gerente.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/br/com/exerciciojavaoo/teste/TesteFuncionario.class" afterPath="$PROJECT_DIR$/br/com/exerciciojavaoo/teste/TesteFuncionario.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/br/com/exerciciojavaoo/teste/TesteGerente.class" afterPath="$PROJECT_DIR$/br/com/exerciciojavaoo/teste/TesteGerente.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/AtualizaContas.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/AtualizaContas.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/Banco.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/Banco.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/Conta.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/Conta.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/ContaCorrente.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/ContaCorrente.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/ContaPoupanca.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/ContaPoupanca.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/GerenciadorDeImpostoDeRenda.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/GerenciadorDeImpostoDeRenda.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/SaldoInsuficienteException.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/SaldoInsuficienteException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/SeguroDeVida.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/SeguroDeVida.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/ValorInsuficienteException.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/beans/ValorInsuficienteException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TestandoReferenciaNula.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TestandoReferenciaNula.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/Teste.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/Teste.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteAtualizaConta.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteAtualizaConta.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteBanco.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteBanco.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteConta.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteConta.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteErro.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteErro.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteGerenciadorDeImpostoDeRenda.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteGerenciadorDeImpostoDeRenda.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TestePoupanca.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TestePoupanca.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteTributavel.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteTributavel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/interfaces/beans/Circulo.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/interfaces/beans/Circulo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/interfaces/beans/Quadrado.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/interfaces/beans/Quadrado.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/interfaces/beans/Retangulo.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/interfaces/beans/Retangulo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/interfaces/teste/TesteInterface.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/interfaces/teste/TesteInterface.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Empresa.java" afterPath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Empresa.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Funcionario.java" afterPath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Funcionario.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Gerente.java" afterPath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Gerente.java" />

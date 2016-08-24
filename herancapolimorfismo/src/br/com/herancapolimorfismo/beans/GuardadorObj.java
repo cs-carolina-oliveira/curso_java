@@ -1,7 +1,15 @@
 package br.com.herancapolimorfismo.beans;
 
-/**
- * Created by carolinaoliveira on 24/08/16.
- */
 public class GuardadorObj {
+    private Object[] arrayObjeto = new Object[100];
+    int posicao = 0;
+
+    public void adicionaObj(Object object){
+        this.arrayObjeto[this.posicao] = object;
+        this.posicao++;
+    }
+
+    public Object pegaObj(int indice){
+        return this.arrayObjeto[indice];
+    }
 }

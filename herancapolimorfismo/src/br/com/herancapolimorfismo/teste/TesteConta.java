@@ -5,9 +5,6 @@ import br.com.herancapolimorfismo.beans.ContaCorrente;
 import br.com.herancapolimorfismo.beans.ContaPoupanca;
 import br.com.herancapolimorfismo.beans.SaldoInsuficienteException;
 
-/**
- * Created by carolinaoliveira on 22/08/16.
- */
 public class TesteConta {
     public static void main(String[] args) {
 

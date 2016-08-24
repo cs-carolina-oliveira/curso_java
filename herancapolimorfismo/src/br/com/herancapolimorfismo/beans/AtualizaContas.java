@@ -1,9 +1,6 @@
 package br.com.herancapolimorfismo.beans;
 
-/**
- * Created by carolinaoliveira on 22/08/16.
- */
-public class AtualizaContas{
+public class AtualizaContas {
     private double saldoTotal = 0;
     private double selic;
 
@@ -31,14 +28,14 @@ public class AtualizaContas{
     public AtualizaContas() {
     }
 
-    public AtualizaContas(double selic){
+    public AtualizaContas(double selic) {
         this.selic = selic;
     }
 
-    public void roda(Conta c){
+    public void roda(Conta c) {
         System.out.println(c.getSaldo());
         c.atualizar(2);
-        saldoTotal+=c.saldo;
+        saldoTotal += c.saldo;
         System.out.println(saldoTotal);
     }
 }

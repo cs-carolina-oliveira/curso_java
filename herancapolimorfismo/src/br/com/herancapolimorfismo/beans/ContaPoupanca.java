@@ -1,9 +1,6 @@
 package br.com.herancapolimorfismo.beans;
 
-/**
- * Created by carolinaoliveira on 22/08/16.
- */
-public class ContaPoupanca extends Conta{
+public class ContaPoupanca extends Conta {
     public ContaPoupanca(double saldo) {
         super();
     }
@@ -13,7 +10,8 @@ public class ContaPoupanca extends Conta{
     }
 
     @Override
-    public void atualizar(double taxa){
-        super.saldo+=super.saldo*taxa*3;
+
+    public void atualizar(double taxa) {
+        super.saldo += super.saldo * taxa * 3;
     }
 }

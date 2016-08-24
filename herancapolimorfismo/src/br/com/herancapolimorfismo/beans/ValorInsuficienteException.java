@@ -8,4 +8,4 @@ public class ValorInsuficienteException extends RuntimeException{
         super("Valor inválido "+valor);
     }
 }
-git checkout 
+git checkout git ad

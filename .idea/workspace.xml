@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78783a4b-8a6b-45c6-94fa-0c1a7df2adbd" name="Default" comment="Executa verificação de erros">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/src/br/com/threads/beans/Programa.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/src/br/com/threads/teste/TestePrograma.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/threads.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/servidor/servidor.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/servidor/src/br/com/servidor/teste/Cliente.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/servidor/src/br/com/servidor/teste/Recebedor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/servidor/src/br/com/servidor/teste/Servidor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/servidor/src/br/com/servidor/teste/TrataCliente.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -30,28 +32,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestePrograma.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/threads/src/br/com/threads/teste/TestePrograma.java">
+      <file leaf-file-name="Servidor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servidor/src/br/com/servidor/teste/Servidor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="392">
+              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Programa.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/threads/src/br/com/threads/beans/Programa.java">
+      <file leaf-file-name="TrataCliente.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/servidor/src/br/com/servidor/teste/TrataCliente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+            <state relative-caret-position="360">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding>
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cliente.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servidor/src/br/com/servidor/teste/Cliente.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Recebedor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servidor/src/br/com/servidor/teste/Recebedor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,13 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/SaldoInsuficienteException.java" />
-        <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/SeguroDeVida.java" />
-        <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/Tributavel.java" />
-        <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/ValorInsuficienteException.java" />
-        <option value="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Empresa.java" />
-        <option value="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Funcionario.java" />
-        <option value="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Gerente.java" />
         <option value="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteEmpresa.java" />
         <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/ContaPoupanca.java" />
         <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TestePoupanca.java" />
@@ -129,6 +147,13 @@
         <option value="$PROJECT_DIR$/threads/src/br/com/threads/teste/TesteT.java" />
         <option value="$PROJECT_DIR$/threads/src/br/com/threads/beans/Programa.java" />
         <option value="$PROJECT_DIR$/threads/src/br/com/threads/teste/TestePrograma.java" />
+        <option value="$PROJECT_DIR$/servidor/src/br/com/servidor/beans/Cliente.java" />
+        <option value="$PROJECT_DIR$/servidor/src/br/com/servidor/beans/Servidor.java" />
+        <option value="$PROJECT_DIR$/servidor/src/br/com/servidor/teste/Recebedor.java" />
+        <option value="$PROJECT_DIR$/servidor/src/br/com/servidor/teste/Cliente.java" />
+        <option value="$PROJECT_DIR$/servidor/src/br/com/servidor/teste/TesteServidor.java" />
+        <option value="$PROJECT_DIR$/servidor/src/br/com/servidor/teste/Servidor.java" />
+        <option value="$PROJECT_DIR$/servidor/src/br/com/servidor/teste/TrataCliente.java" />
       </list>
     </option>
   </component>
@@ -202,8 +227,18 @@
               <option name="myItemId" value="curso_java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="threads" />
+              <option name="myItemId" value="curso_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="curso_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servidor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -217,73 +252,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="threads" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="threads" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="teste" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="curso_java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="curso_java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="threads" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="threads" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="curso_java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="curso_java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_lang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="curso_java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="curso_java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java_lang" />
+              <option name="myItemId" value="servidor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -292,16 +261,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="teste" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="curso_java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="curso_java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -345,7 +304,7 @@
       <recent name="br.com.herancapolimorfismo.beans" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteT">
+  <component name="RunManager" selected="Application.TesteServidor">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -602,6 +561,21 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="threads" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TesteServidor" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="br.com.servidor.teste.Servidor" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/servidor" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="servidor" />
       <envs />
       <method />
     </configuration>
@@ -905,28 +879,29 @@
       <envs />
       <method />
     </configuration>
-    <list size="21">
+    <list size="22">
       <item index="0" class="java.lang.String" itemvalue="Application.TesteT" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestePerformance" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TesteTamanho" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Testef" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TesteErro2" />
-      <item index="5" class="java.lang.String" itemvalue="Application.TesteC" />
-      <item index="6" class="java.lang.String" itemvalue="Application.TesteOrdenacao" />
-      <item index="7" class="java.lang.String" itemvalue="Application.TesteSet" />
-      <item index="8" class="java.lang.String" itemvalue="Application.TesteMap" />
-      <item index="9" class="java.lang.String" itemvalue="Application.TesteProp" />
-      <item index="10" class="java.lang.String" itemvalue="Application.TesteString" />
-      <item index="11" class="java.lang.String" itemvalue="Application.TesteSaida" />
-      <item index="12" class="java.lang.String" itemvalue="Application.TesteFuncionario" />
-      <item index="13" class="java.lang.String" itemvalue="Application.TesteInt" />
-      <item index="14" class="java.lang.String" itemvalue="Application.TesteErro" />
-      <item index="15" class="java.lang.String" itemvalue="Application.TestandoReferenciaNull" />
-      <item index="16" class="java.lang.String" itemvalue="Application.Teste" />
-      <item index="17" class="java.lang.String" itemvalue="Application.TesteInterface" />
-      <item index="18" class="java.lang.String" itemvalue="Application.TestePoupanca" />
-      <item index="19" class="java.lang.String" itemvalue="Application.TesteEntrada" />
-      <item index="20" class="java.lang.String" itemvalue="Application.TesteEntrada2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TesteServidor" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestePerformance" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TesteTamanho" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Testef" />
+      <item index="5" class="java.lang.String" itemvalue="Application.TesteErro2" />
+      <item index="6" class="java.lang.String" itemvalue="Application.TesteC" />
+      <item index="7" class="java.lang.String" itemvalue="Application.TesteOrdenacao" />
+      <item index="8" class="java.lang.String" itemvalue="Application.TesteSet" />
+      <item index="9" class="java.lang.String" itemvalue="Application.TesteMap" />
+      <item index="10" class="java.lang.String" itemvalue="Application.TesteProp" />
+      <item index="11" class="java.lang.String" itemvalue="Application.TesteString" />
+      <item index="12" class="java.lang.String" itemvalue="Application.TesteSaida" />
+      <item index="13" class="java.lang.String" itemvalue="Application.TesteFuncionario" />
+      <item index="14" class="java.lang.String" itemvalue="Application.TesteInt" />
+      <item index="15" class="java.lang.String" itemvalue="Application.TesteErro" />
+      <item index="16" class="java.lang.String" itemvalue="Application.TestandoReferenciaNull" />
+      <item index="17" class="java.lang.String" itemvalue="Application.Teste" />
+      <item index="18" class="java.lang.String" itemvalue="Application.TesteInterface" />
+      <item index="19" class="java.lang.String" itemvalue="Application.TestePoupanca" />
+      <item index="20" class="java.lang.String" itemvalue="Application.TesteEntrada" />
+      <item index="21" class="java.lang.String" itemvalue="Application.TesteEntrada2" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -964,7 +939,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15529905" sideWeight="0.50441504" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15949632" sideWeight="0.495585" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15320042" sideWeight="0.495585" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1046,35 +1021,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/testa-io.txt" />
-    <entry file="file://$PROJECT_DIR$/java_lang/testa-io.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_lang/arquivo.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/ValorInsuficienteException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/Tributavel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/TesteInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -1388,8 +1334,8 @@
         <state relative-caret-position="216">
           <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="false" />
+            <element signature="e#231#232#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1434,6 +1380,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/threads/src/br/com/threads/teste/TestePrograma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/threads/src/br/com/threads/beans/Programa.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -1449,11 +1403,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/threads/src/br/com/threads/teste/TestePrograma.java">
+    <entry file="file://$PROJECT_DIR$/servidor/src/br/com/servidor/beans/Servidor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        <state relative-caret-position="126">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servidor/src/br/com/servidor/teste/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servidor/src/br/com/servidor/teste/Recebedor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servidor/src/br/com/servidor/teste/Servidor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servidor/src/br/com/servidor/teste/TrataCliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1509,7 +1505,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>threads</last-edited>
+          <last-edited>servidor</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

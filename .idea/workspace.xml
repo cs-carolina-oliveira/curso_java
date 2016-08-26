@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78783a4b-8a6b-45c6-94fa-0c1a7df2adbd" name="Default" comment="Executa verificação de erros">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/collections/br/com/collections/teste/TesteSet.class" afterPath="$PROJECT_DIR$/collections/br/com/collections/teste/TesteSet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/collections/src/br/com/collections/beans/ComparadorPorTamanho.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/collections/src/br/com/collections/teste/TestePerformance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteProperties.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/collections/br/com/collections/teste/TesteMap.class" afterPath="$PROJECT_DIR$/collections/br/com/collections/teste/TesteMap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java_lang/br/com/javalang/teste/TesteErro2.class" afterPath="$PROJECT_DIR$/java_lang/br/com/javalang/teste/TesteErro2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteSet.java" afterPath="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteSet.java" />
     </list>
     <ignored path="curso_java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,13 +31,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TesteMap.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteMap.java">
+      <file leaf-file-name="TestePerformance.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/teste/TestePerformance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+            <state relative-caret-position="162">
+              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComparadorPorTamanho.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/beans/ComparadorPorTamanho.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding>
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,9 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/Circulo.java" />
-        <option value="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/Quadrado.java" />
-        <option value="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/Retangulo.java" />
         <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TestandoReferenciaNula.java" />
         <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/Teste.java" />
         <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteErro.java" />
@@ -112,6 +125,9 @@
         <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteTributavel.java" />
         <option value="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteSet.java" />
         <option value="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteMap.java" />
+        <option value="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteProperties.java" />
+        <option value="$PROJECT_DIR$/collections/src/br/com/collections/teste/TestePerformance.java" />
+        <option value="$PROJECT_DIR$/collections/src/br/com/collections/beans/ComparadorPorTamanho.java" />
       </list>
     </option>
   </component>
@@ -292,7 +308,7 @@
       <recent name="br.com.herancapolimorfismo.beans" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteMap">
+  <component name="RunManager" selected="Application.TesteTamanho">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -537,6 +553,36 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="false" name="TestePerformance" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="br.com.collections.teste.TestePerformance" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/collections" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="collections" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TesteTamanho" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="br.com.collections.beans.ComparadorPorTamanho" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/collections" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="collections" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="false" name="Testef" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="br.com.exerciciojavaoo.teste.TesteGerente" />
@@ -615,6 +661,21 @@
     <configuration default="false" name="TesteMap" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="br.com.collections.teste.TesteMap" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/collections" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="collections" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TesteProp" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="br.com.collections.teste.TesteProperties" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/collections" />
@@ -732,36 +793,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TesteAtualizaConta" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="br.com.herancapolimorfismo.teste.TesteAtualizaConta" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/herancapolimorfismo" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="herancapolimorfismo" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="TesteBanco" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="br.com.herancapolimorfismo.teste.TesteBanco" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/herancapolimorfismo" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="herancapolimorfismo" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="false" name="TesteInterface" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="br.com.interfaces.teste.TesteInterface" />
@@ -822,26 +853,27 @@
       <envs />
       <method />
     </configuration>
-    <list size="19">
-      <item index="0" class="java.lang.String" itemvalue="Application.Testef" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TesteErro2" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TesteC" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TesteOrdenacao" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TesteSet" />
-      <item index="5" class="java.lang.String" itemvalue="Application.TesteMap" />
-      <item index="6" class="java.lang.String" itemvalue="Application.TesteString" />
-      <item index="7" class="java.lang.String" itemvalue="Application.TesteSaida" />
-      <item index="8" class="java.lang.String" itemvalue="Application.TesteFuncionario" />
-      <item index="9" class="java.lang.String" itemvalue="Application.TesteInt" />
-      <item index="10" class="java.lang.String" itemvalue="Application.TesteErro" />
-      <item index="11" class="java.lang.String" itemvalue="Application.TestandoReferenciaNull" />
-      <item index="12" class="java.lang.String" itemvalue="Application.Teste" />
-      <item index="13" class="java.lang.String" itemvalue="Application.TesteAtualizaConta" />
-      <item index="14" class="java.lang.String" itemvalue="Application.TesteBanco" />
-      <item index="15" class="java.lang.String" itemvalue="Application.TesteInterface" />
-      <item index="16" class="java.lang.String" itemvalue="Application.TestePoupanca" />
-      <item index="17" class="java.lang.String" itemvalue="Application.TesteEntrada" />
-      <item index="18" class="java.lang.String" itemvalue="Application.TesteEntrada2" />
+    <list size="20">
+      <item index="0" class="java.lang.String" itemvalue="Application.TestePerformance" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TesteTamanho" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Testef" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TesteErro2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TesteC" />
+      <item index="5" class="java.lang.String" itemvalue="Application.TesteOrdenacao" />
+      <item index="6" class="java.lang.String" itemvalue="Application.TesteSet" />
+      <item index="7" class="java.lang.String" itemvalue="Application.TesteMap" />
+      <item index="8" class="java.lang.String" itemvalue="Application.TesteProp" />
+      <item index="9" class="java.lang.String" itemvalue="Application.TesteString" />
+      <item index="10" class="java.lang.String" itemvalue="Application.TesteSaida" />
+      <item index="11" class="java.lang.String" itemvalue="Application.TesteFuncionario" />
+      <item index="12" class="java.lang.String" itemvalue="Application.TesteInt" />
+      <item index="13" class="java.lang.String" itemvalue="Application.TesteErro" />
+      <item index="14" class="java.lang.String" itemvalue="Application.TestandoReferenciaNull" />
+      <item index="15" class="java.lang.String" itemvalue="Application.Teste" />
+      <item index="16" class="java.lang.String" itemvalue="Application.TesteInterface" />
+      <item index="17" class="java.lang.String" itemvalue="Application.TestePoupanca" />
+      <item index="18" class="java.lang.String" itemvalue="Application.TesteEntrada" />
+      <item index="19" class="java.lang.String" itemvalue="Application.TesteEntrada2" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -879,7 +911,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15529905" sideWeight="0.50441504" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15949632" sideWeight="0.495585" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15949632" sideWeight="0.495585" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -961,27 +993,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/Object.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TestePoupanca.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_lang/br/com/javalang/teste/TesteInteger.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/TesteGuardador.java" />
     <entry file="file://$PROJECT_DIR$/java_lang/src/br/com/javalang/beans/GuardadorDeObj.java" />
     <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/GuardadorObj.java">
@@ -1320,12 +1331,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteMap.java">
+    <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteProperties.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+        <state relative-caret-position="162">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/teste/TestePerformance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/beans/ComparadorPorTamanho.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
           </folding>
         </state>
       </provider>

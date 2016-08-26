@@ -7,7 +7,7 @@ public class TesteErro2 {
         try {
             metodo();
         } catch (RuntimeException ex) {
-            System.out.println("Exception pega");
+            System.out.println("Erro " + ex);
         }
         System.out.println("Após invocação do método");
     }

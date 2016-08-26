@@ -8,19 +8,14 @@ import br.com.herancapolimorfismo.beans.SaldoInsuficienteException;
 public class TesteConta {
     public static void main(String[] args) {
 
-        Conta cc = new ContaCorrente();
+       /* Conta cc = new ContaCorrente();
         cc.depositar(10);
 
         try {
             cc.sacar(100);
         } catch (SaldoInsuficienteException e) {
             System.out.println(e.getMessage());
-        }
-
-
-        /*Conta c1 = new Conta();
-        Conta c2 = new Conta();
-        Conta c3 = new Conta();*/
+        }*/
 
         Conta c1 = new Conta();
         Conta c2 = new ContaCorrente();
@@ -37,6 +32,15 @@ public class TesteConta {
         System.out.println(c1.getSaldo());
         System.out.println(c2.getSaldo());
         System.out.println(c3.getSaldo());
+
+
+       /* Conta [] minhasContas = new Conta[10];
+        System.out.println(minhasContas[4].getSaldo());
+
+        Conta contaNova = new Conta();
+        contaNova.setSaldo(1000.0);
+        minhasContas[0] = contaNova;*/
+
 
         try {
             c1.sacar(200);

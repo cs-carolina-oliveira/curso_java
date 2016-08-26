@@ -15,6 +15,7 @@ public class TesteFuncionario {
 
 
     public static void main(String[] args) {
+        //INstancia e seta informações de funcionario
         Funcionario f1 = new Funcionario();
         f1.setNome("Hugo");
         f1.setDepto("Vendas");
@@ -27,6 +28,8 @@ public class TesteFuncionario {
         f2.setSalario(1263.40);
         f2.setDtEntrada("17/01/2016");
         f2.setRg("853367895");
+
+        //Imprime salario e ganho anual de funcionario
         System.out.println("Salario atual: " + f1.getSalario() + "\n" +
                 "Ganho anual: " + f1.ganhoAnual());
         JOptionPane.showMessageDialog(null, "Salario atual: " + f1.getSalario() + "\n" +
@@ -37,16 +40,5 @@ public class TesteFuncionario {
         } else {
             System.out.println("Diferentes");
         }
-
-        /*  Funcionario func = new Funcionario(
-            txt("nome "),
-            txt("departamento "),
-            num("salario"),
-            txt("data de entrada "),
-            txt("rg")
-             );
-         */
-
-
     }
 }

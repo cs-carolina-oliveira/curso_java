@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78783a4b-8a6b-45c6-94fa-0c1a7df2adbd" name="Default" comment="Executa verificação de erros">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteSet.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteGuardador.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteGuardador.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteTributavel.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteP.java" afterPath="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteOrdenacao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/collections/br/com/collections/teste/TesteC.class" afterPath="$PROJECT_DIR$/collections/br/com/collections/teste/TesteC.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteAtualizaConta.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteAtualizaConta.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteBanco.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteBanco.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteConta.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteConta.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteTributavel.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteTributavel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/collections/src/br/com/collections/beans/ContaP.java" afterPath="$PROJECT_DIR$/collections/src/br/com/collections/beans/ContaP.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteC.java" afterPath="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteC.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteFuncionario.java" afterPath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteFuncionario.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteGerente.java" afterPath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteGerente.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteAtualizaConta.java" afterPath="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteAtualizaConta.java" />

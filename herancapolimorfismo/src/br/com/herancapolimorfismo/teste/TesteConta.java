@@ -29,6 +29,7 @@ public class TesteConta {
         c2.atualizar(0.02);
         c3.atualizar(0.03);
 
+        //Imprime saldo de clientes
         System.out.println(c1.getSaldo());
         System.out.println(c2.getSaldo());
         System.out.println(c3.getSaldo());
@@ -55,6 +56,5 @@ public class TesteConta {
         if (!minhaConta.sacar((1000))) {
             System.out.println("Não saquei");
         }*/
-
     }
 }

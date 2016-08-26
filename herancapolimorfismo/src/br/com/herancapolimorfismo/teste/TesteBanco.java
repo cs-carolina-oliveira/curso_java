@@ -14,6 +14,7 @@ public class TesteBanco extends Conta {
         conta.setRg("258896547");
         conta.setSaldo(34.00);
 
+        //Imprime dados do cliente
         JOptionPane.showMessageDialog(null, "Nome " + conta.getNome() + "\n" + "Cpf " + conta.getCpf() + "\n" + "RG " +
                 conta.getRg() + "\n" + "Saldo " + conta.getSaldo());
 

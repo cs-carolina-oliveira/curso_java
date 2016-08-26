@@ -10,6 +10,7 @@ public class TesteGerente {
         gerente.setSenha(1234);
         gerente.setSalario(5015.40);
 
+        //valida senha de gerente
         gerente.autentica(1234);
         System.out.println("Sua bonificação foi de " + Math.round(gerente.getBonificacao()));
 
@@ -20,6 +21,7 @@ public class TesteGerente {
         Gerente funcionario1 = new Gerente();
         funcionario1.setSalario(5000);
 
+        //Imprime bonificação de funcionarios
         System.out.println(funcionario.getBonificacao());
     }
 }

@@ -9,9 +9,11 @@ public class TesteAtualizaConta {
         Conta cc = new Conta();
         Conta cp = new Conta();
 
+        //Seta valor a ser depositado na conta
         c.depositar(1000);
         cc.depositar(1000);
         cp.depositar(1000);
+
 
         AtualizaContas ac = new AtualizaContas();
         ac.roda(c);

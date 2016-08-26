@@ -12,11 +12,11 @@ public class ContaP extends Conta implements Comparable<ContaP> {
     @Override
     public int compareTo(ContaP contaP) {
         if (this.getNumero() < contaP.getNumero()) {
-            return -1;
+            return 0;
         } else if (this.getNumero() > contaP.getNumero()) {
-            return 1;
+            return -1;
         }
-        return 0;
+        return 1;
     }
 
 }

@@ -20,14 +20,12 @@ public class TesteC {
         conta.add(c2);
         conta.add(c3);
 
-       /* System.out.println(conta.size());
+        Collections.sort(conta);
 
         for (int i = 0; i < conta.size(); i++) {
-            ContaC cc = (ContaC) conta.get(i);
+            ContaC cc = conta.get(i);
 
             System.out.println(cc.getSaldo());
-        }**/
-
-        Collections.sort(conta);
+        }
     }
 }

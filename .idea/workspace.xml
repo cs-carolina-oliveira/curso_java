@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78783a4b-8a6b-45c6-94fa-0c1a7df2adbd" name="Default" comment="Executa verificação de erros">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteSet.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteGuardador.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteGuardador.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteTributavel.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteP.java" afterPath="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteOrdenacao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/collections/br/com/collections/teste/TesteC.class" afterPath="$PROJECT_DIR$/collections/br/com/collections/teste/TesteC.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteAtualizaConta.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteAtualizaConta.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteBanco.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteBanco.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteConta.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteConta.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteTributavel.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteTributavel.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/collections/src/br/com/collections/beans/ContaP.java" afterPath="$PROJECT_DIR$/collections/src/br/com/collections/beans/ContaP.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteC.java" afterPath="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteC.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteFuncionario.java" afterPath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteFuncionario.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteGerente.java" afterPath="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteGerente.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteAtualizaConta.java" afterPath="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteAtualizaConta.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteBanco.java" afterPath="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteBanco.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteConta.java" afterPath="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteConta.java" />
     </list>
     <ignored path="curso_java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,42 +43,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TesteC.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteC.java">
+      <file leaf-file-name="TesteSet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContaC.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/beans/ContaC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="33" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContaP.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/beans/ContaP.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TesteP.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteP.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="126">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,19 +76,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java_lang/src/br/com/javalang/beans/GuardardorDeObj.java" />
-        <option value="$PROJECT_DIR$/interfaces/src/br/com/interfaces/teste/TesteInterface.java" />
         <option value="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/AreaCalculavel.java" />
         <option value="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/Circulo.java" />
         <option value="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/Quadrado.java" />
         <option value="$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/Retangulo.java" />
         <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TestandoReferenciaNula.java" />
         <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/Teste.java" />
-        <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteAtualizaConta.java" />
-        <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteBanco.java" />
         <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteErro.java" />
         <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteGerenciadorDeImpostoDeRenda.java" />
-        <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteTributavel.java" />
         <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/AtualizaContas.java" />
         <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/Banco.java" />
         <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/GerenciadorDeImpostoDeRenda.java" />
@@ -111,8 +95,6 @@
         <option value="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Funcionario.java" />
         <option value="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Gerente.java" />
         <option value="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteEmpresa.java" />
-        <option value="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteFuncionario.java" />
-        <option value="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteGerente.java" />
         <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/ContaPoupanca.java" />
         <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TestePoupanca.java" />
         <option value="$PROJECT_DIR$/java_lang/src/br/com/javalang/beans/GuardadorDeObj.java" />
@@ -126,7 +108,6 @@
         <option value="$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/TesteEntrada.java" />
         <option value="$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/TesteString.java" />
         <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/Conta.java" />
-        <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteConta.java" />
         <option value="$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/TesteInteger.java" />
         <option value="$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/TesteErro2.java" />
         <option value="$PROJECT_DIR$/collections/src/br/com/collections/teste/Conta.java" />
@@ -134,10 +115,18 @@
         <option value="$PROJECT_DIR$/collections/src/br/com/collections/beans/ContaCorrente.java" />
         <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/ContaCorrente.java" />
         <option value="$PROJECT_DIR$/collections/src/br/com/collections/beans/Conta.java" />
-        <option value="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteC.java" />
-        <option value="$PROJECT_DIR$/collections/src/br/com/collections/beans/ContaP.java" />
         <option value="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteP.java" />
         <option value="$PROJECT_DIR$/collections/src/br/com/collections/beans/ContaC.java" />
+        <option value="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteC.java" />
+        <option value="$PROJECT_DIR$/collections/src/br/com/collections/beans/ContaP.java" />
+        <option value="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteOrdenacao.java" />
+        <option value="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteFuncionario.java" />
+        <option value="$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteGerente.java" />
+        <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteAtualizaConta.java" />
+        <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteBanco.java" />
+        <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteConta.java" />
+        <option value="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteTributavel.java" />
+        <option value="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteSet.java" />
       </list>
     </option>
   </component>
@@ -151,7 +140,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
     <option name="y" value="52" />
-    <option name="width" value="894" />
+    <option name="width" value="928" />
     <option name="height" value="1028" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -318,7 +307,7 @@
       <recent name="br.com.herancapolimorfismo.beans" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteC">
+  <component name="RunManager" selected="Application.TesteSet">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -608,6 +597,36 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="false" name="TesteOrdenacao" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="br.com.collections.teste.TesteOrdenacao" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/collections" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="collections" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TesteSet" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="br.com.collections.teste.TesteSet" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/collections" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="collections" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="false" name="TesteString" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="br.com.javalang.teste.TesteString" />
@@ -635,21 +654,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="java_lang" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="TesteGuardador" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="br.com.herancapolimorfismo.teste.TesteGuardador" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/herancapolimorfismo" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="herancapolimorfismo" />
       <envs />
       <method />
     </configuration>
@@ -818,40 +822,25 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TesteTributavel" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="br.com.herancapolimorfismo.teste.TesteTributavel" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/exercicio_javaoo" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="herancapolimorfismo" />
-      <envs />
-      <method />
-    </configuration>
     <list size="18">
       <item index="0" class="java.lang.String" itemvalue="Application.Testef" />
       <item index="1" class="java.lang.String" itemvalue="Application.TesteErro2" />
       <item index="2" class="java.lang.String" itemvalue="Application.TesteC" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TesteString" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TesteSaida" />
-      <item index="5" class="java.lang.String" itemvalue="Application.TesteGuardador" />
-      <item index="6" class="java.lang.String" itemvalue="Application.TesteFuncionario" />
-      <item index="7" class="java.lang.String" itemvalue="Application.TesteInt" />
-      <item index="8" class="java.lang.String" itemvalue="Application.TesteErro" />
-      <item index="9" class="java.lang.String" itemvalue="Application.TestandoReferenciaNull" />
-      <item index="10" class="java.lang.String" itemvalue="Application.Teste" />
-      <item index="11" class="java.lang.String" itemvalue="Application.TesteAtualizaConta" />
-      <item index="12" class="java.lang.String" itemvalue="Application.TesteBanco" />
-      <item index="13" class="java.lang.String" itemvalue="Application.TesteInterface" />
-      <item index="14" class="java.lang.String" itemvalue="Application.TestePoupanca" />
-      <item index="15" class="java.lang.String" itemvalue="Application.TesteEntrada" />
-      <item index="16" class="java.lang.String" itemvalue="Application.TesteEntrada2" />
-      <item index="17" class="java.lang.String" itemvalue="Application.TesteTributavel" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TesteOrdenacao" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TesteSet" />
+      <item index="5" class="java.lang.String" itemvalue="Application.TesteString" />
+      <item index="6" class="java.lang.String" itemvalue="Application.TesteSaida" />
+      <item index="7" class="java.lang.String" itemvalue="Application.TesteFuncionario" />
+      <item index="8" class="java.lang.String" itemvalue="Application.TesteInt" />
+      <item index="9" class="java.lang.String" itemvalue="Application.TesteErro" />
+      <item index="10" class="java.lang.String" itemvalue="Application.TestandoReferenciaNull" />
+      <item index="11" class="java.lang.String" itemvalue="Application.Teste" />
+      <item index="12" class="java.lang.String" itemvalue="Application.TesteAtualizaConta" />
+      <item index="13" class="java.lang.String" itemvalue="Application.TesteBanco" />
+      <item index="14" class="java.lang.String" itemvalue="Application.TesteInterface" />
+      <item index="15" class="java.lang.String" itemvalue="Application.TestePoupanca" />
+      <item index="16" class="java.lang.String" itemvalue="Application.TesteEntrada" />
+      <item index="17" class="java.lang.String" itemvalue="Application.TesteEntrada2" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -871,21 +860,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="52" width="894" height="1028" extended-state="4" />
-    <editor active="false" />
+    <frame x="65" y="52" width="928" height="1028" extended-state="4" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33788037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15529905" sideWeight="0.50441504" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15949632" sideWeight="0.495585" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15949632" sideWeight="0.495585" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3456376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23599137" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -899,7 +889,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33788037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -962,105 +951,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteAtualizaConta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteBanco.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteGerenciadorDeImpostoDeRenda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/AtualizaContas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/Banco.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteTributavel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/SeguroDeVida.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/GerenciadorDeImpostoDeRenda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/SaldoInsuficienteException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Gerente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Funcionario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-116">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/beans/Empresa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="39" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteEmpresa.java" />
-    <entry file="file://$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteGerente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteFuncionario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/Object.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-33">
@@ -1088,13 +979,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteGuardador.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1135,20 +1019,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/Conta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteConta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="51" column="41" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/TesteInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -1160,13 +1030,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteErro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1237,6 +1100,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#148#149#0" expanded="false" />
+            <element signature="e#171#172#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1248,34 +1115,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/ContaPoupanca.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/beans/ContaP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1285,6 +1128,186 @@
         <state relative-caret-position="0">
           <caret line="0" column="33" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteOrdenacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteFuncionario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/beans/ContaP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="63" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio_javaoo/src/br/com/exerciciojavaoo/teste/TesteGerente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TestandoReferenciaNula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/Teste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/AtualizaContas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteAtualizaConta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/Banco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/beans/Conta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteBanco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteConta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteErro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteGerenciadorDeImpostoDeRenda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteGuardador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteTributavel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/AreaCalculavel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaces/src/br/com/interfaces/beans/Retangulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfaces/src/br/com/interfaces/teste/TesteInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

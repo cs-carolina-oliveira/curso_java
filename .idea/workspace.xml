@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78783a4b-8a6b-45c6-94fa-0c1a7df2adbd" name="Default" comment="Executa verificação de erros">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteConta.class" afterPath="$PROJECT_DIR$/herancapolimorfismo/br/com/herancapolimorfismo/teste/TesteConta.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java_lang/br/com/javalang/teste/TesteEntrada.class" afterPath="$PROJECT_DIR$/java_lang/br/com/javalang/teste/TesteEntrada.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java_lang/br/com/javalang/teste/TesteInteger.class" afterPath="$PROJECT_DIR$/java_lang/br/com/javalang/teste/TesteInteger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteP.java" afterPath="$PROJECT_DIR$/collections/src/br/com/collections/teste/TesteP.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteConta.java" afterPath="$PROJECT_DIR$/herancapolimorfismo/src/br/com/herancapolimorfismo/teste/TesteConta.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/TesteEntrada.java" afterPath="$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/TesteEntrada.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/TesteErro2.java" afterPath="$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/TesteErro2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/TesteInteger.java" afterPath="$PROJECT_DIR$/java_lang/src/br/com/javalang/teste/TesteInteger.java" />
     </list>
     <ignored path="curso_java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -881,7 +872,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="52" width="894" height="1028" extended-state="4" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -894,7 +885,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3456376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3456376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />

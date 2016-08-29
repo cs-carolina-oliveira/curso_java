@@ -8,7 +8,7 @@ public class Conta {
     protected double limite;
     protected int numero;
 
-    public Conta() {
+    protected Conta() {
 
     }
 
@@ -36,31 +36,15 @@ public class Conta {
         this.numero = numero;
     }
 
-    public String getNome() {
-        return nome;
-    }
-
-    public long getCpf() {
-        return cpf;
-    }
-
-    public String getRg() {
-        return rg;
-    }
-
     public double getSaldo() {
         return saldo;
-    }
-
-    public double getLimite() {
-        return limite;
     }
 
     public int getNumero() {
         return numero;
     }
 
-    public Conta(String nome, long cpf, String rg, double saldo, double limite, int numero) {
+    Conta(String nome, long cpf, String rg, double saldo, double limite, int numero) {
         this.nome = nome;
         this.cpf = cpf;
         this.rg = rg;
@@ -84,5 +68,11 @@ public class Conta {
         } else {
             this.saldo -= valor;
         }
+
+
+    }
+
+    public String getTudo() {
+        return "Nome: " + nome + "\n " + "CPF: " + cpf + "\n " + "RG: " + rg + "\n " + "Limite: " + limite;
     }
 }

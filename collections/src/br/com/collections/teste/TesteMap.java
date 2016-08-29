@@ -1,8 +1,6 @@
 package br.com.collections.teste;
 
-import br.com.collections.beans.Conta;
 import br.com.collections.beans.ContaC;
-
 import java.util.HashMap;
 import java.util.Map;
 

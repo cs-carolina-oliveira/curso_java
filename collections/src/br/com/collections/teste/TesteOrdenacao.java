@@ -27,8 +27,8 @@ public class TesteOrdenacao {
         //Reverte ordem
         contas.sort(Collections.reverseOrder());
 
-        for (int i = 0; i < contas.size(); i++) {
-            System.out.println("número: " + contas.get(i).getNumero());
+        for (ContaP conta : contas) {
+            System.out.println("número: " + conta.getNumero());
         }
 
         //Imprime num de forma randomica

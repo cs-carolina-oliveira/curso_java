@@ -1,13 +1,12 @@
 package br.com.collections.teste;
 
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.Set;
 
 public class TesteSet {
     public static void main(String[] args) {
 
-        /*Set<String> cargos = new HashSet<>();
+        Set<String> cargos = new HashSet<>();
 
         cargos.add("Gerente");
         cargos.add("Diretor");
@@ -15,7 +14,7 @@ public class TesteSet {
         cargos.add("Funcionario");
         cargos.add("Gerente");
 
-        System.out.println(cargos);*/
+        System.out.println(cargos);
 
 
         Set<String> conjunto = new HashSet<>();
@@ -24,9 +23,7 @@ public class TesteSet {
         conjunto.add("item 3");
 
         //retorna o iterator
-        Iterator<String> i = conjunto.iterator();
-        while (i.hasNext()) {
-            String palavra = i.next();
+        for (String palavra : conjunto) {
             System.out.println(palavra);
         }
 

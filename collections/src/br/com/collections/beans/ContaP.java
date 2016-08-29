@@ -8,7 +8,6 @@ public class ContaP extends Conta implements Comparable<ContaP> {
         super(nome, cpf, rg, saldo, limite, numero);
     }
 
-
     @Override
     public int compareTo(ContaP contaP) {
         if (this.getNumero() < contaP.getNumero()) {
